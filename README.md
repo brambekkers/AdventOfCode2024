@@ -17,14 +17,14 @@ This repository is where I will be documenting my solutions to each day's challe
 ```plaintext
 ├── day01/
 │   ├── solution.js
-│   └── Task.md
+│   └── task.md
 ├── day02/
 │   ├── solution.js
-│   └── Task.md
+│   └── task.md
 ├── ...
 └── day25/
     ├── solution.js
-    └── Task.md
+    └── task.md
 ```
 
 ## Daily Links
@@ -48,7 +48,7 @@ I will be adding links to each day’s challenge as they become available. This 
 2. **Navigate by Day**: Each day's solution is contained within its respective folder. You’ll find my JavaScript/TypeScript files along with any notes or explanations.
 3. **Run the Solutions**: Ensure you have Node.js installed. Navigate to the desired folder and execute the solution with:
    ```bash
-   node solution.js
+   deno solution.ts
    ```
 
 ## Feedback and Collaboration
