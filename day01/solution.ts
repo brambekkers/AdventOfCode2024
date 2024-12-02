@@ -37,4 +37,17 @@ const calculateDistance = (list1: number[], list2: number[]) => {
   return totalDistance
 }
 
-console.log(calculateDistance(list1, list2))
+const countNumber = (arr: number[], num: number) => arr.filter((n) => n === num).length
+
+const calculateSimilarity = (list1: number[], list2: number[]) => {
+  let totalSimilarity = 0
+
+  for (let i = 0; i < list1.length; i++) {
+    totalSimilarity += list1[i] * countNumber(list2, list1[i])
+  }
+
+  return totalSimilarity
+}
+
+console.log('The outcome of challenge 1:', calculateDistance(list1, list2))
+console.log('The outcome of challenge 2:', calculateSimilarity(list1, list2))
