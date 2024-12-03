@@ -35,7 +35,7 @@ In the example above, the reports can be found safe or unsafe by checking those 
 
 Analyze the unusual data from the engineers. How many reports are safe?
 
-# --- Part Two ---
+## --- Part Two ---
 
 The engineers are surprised by the low number of safe reports until they realize they forgot to tell you about the Problem Dampener.
 
