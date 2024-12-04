@@ -46,7 +46,7 @@ I will be adding links to each day’s challenge as they become available. This 
    git clone https://github.com/brambekkers/AdventOfCode2024.git
    ```
 2. **Navigate by Day**: Each day's solution is contained within its respective folder. You’ll find my JavaScript/TypeScript files along with any notes or explanations.
-3. **Run the Solutions**: Ensure you have Node.js installed. Navigate to the desired folder and execute the solution with:
+3. **Run the Solutions**: Ensure you have Deno installed to run ts files natively. Navigate to the desired folder and execute the solution with:
    ```bash
    deno solution.ts
    ```
