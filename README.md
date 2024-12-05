@@ -34,6 +34,8 @@ I will be adding links to each day’s challenge as they become available. This 
 - [Day 01: [Challenge Link]](https://adventofcode.com/2024/day/1)
 - [Day 02: [Challenge Link]](https://adventofcode.com/2024/day/2)
 - [Day 03: [Challenge Link]](https://adventofcode.com/2024/day/3)
+- [Day 04: [Challenge Link]](https://adventofcode.com/2024/day/4)
+- [Day 05: [Challenge Link]](https://adventofcode.com/2024/day/5)
 - ...
 - [Day 25: [Challenge Link]](https://adventofcode.com/2024/day/25)
 
